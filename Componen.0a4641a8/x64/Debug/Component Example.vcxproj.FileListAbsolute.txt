@@ -1,0 +1,5 @@
+C:\Users\aiden\Documents\GitHub\alien-game\x64\Debug\SDL2_imaged.dll
+C:\Users\aiden\Documents\GitHub\alien-game\x64\Debug\SDL2d.dll
+C:\Users\aiden\Documents\GitHub\alien-game\x64\Debug\libpng16d.dll
+C:\Users\aiden\Documents\GitHub\alien-game\x64\Debug\zlibd1.dll
+C:\Users\aiden\Documents\GitHub\alien-game\Componen.0a4641a8\x64\Debug\Componen.50DF02CE.Up2Date
